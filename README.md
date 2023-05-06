@@ -12,8 +12,8 @@ A process section that displays the pizza shop routine
 A shops section that displays the pizza shops franchises around the world
 An about page that provides information about the pizza restaurant
 
-#Contributing
+# Contributing
 If you would like to contribute to the development of this website, feel free to fork the repository and submit a pull request. We welcome any contributions and suggestions for improvement.
 
-#Contact
+# Contact
 If you have any questions or concerns about this pizza website, feel free to contact us at [cody@auradevelopment.com.au]. Thank you for visiting!
